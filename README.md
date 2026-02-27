@@ -121,10 +121,20 @@ Integrate with OpenAI API
 Add SHAP explainability
 Real-time churn monitoring dashboard
 
+#Project Outputs:
+
+## Revenue Impact
+![Revenue Impact](revenue_impact.png)
+
+## Feature Importance
+![Feature Importance](feature_importance.png)
+
+## AI Assistant Output
+![AI Assistant](ai_assistant_output.png)
+
 Author:
 Siddiqua Fathima
 MCA Student | Aspiring ML Engineer
 
 Includes an AI decision assistant layer
-
 It demonstrates both technical depth and business thinking.
